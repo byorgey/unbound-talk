@@ -1,0 +1,8 @@
+Outline for NJPLS Binders Unbound talk. 30 mins.
+
+Start with some sort of basic introduction/examples?  Should give a
+lot of examples, but show some theory as well...
+
+Doing a live coding demo is risky, since who knows what will happen,
+my computer may or may not work...?  Well, could just have a backup
+plan.
